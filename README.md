@@ -36,7 +36,7 @@ Features:
 - Smoking (binary)
 - Alcohol Consumption (binary)
 - Physical Activity (binary)
-- 
+  
 Target Variable:
 - Cardio (binary) - Presence or absence of cardiovascular disease
   
